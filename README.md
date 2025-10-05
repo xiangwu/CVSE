@@ -1,5 +1,5 @@
 # CVSE
-A branch of ASIR-SE open platform which focuses on visual information processing.
+A branch of ASIR_GURU platform which focuses on visual information processing.
 1. 开源课程、教程
     - CV-1  数字图像处理
     - CV-2 计算机/机器人视觉原理                
