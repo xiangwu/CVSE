@@ -7,3 +7,4 @@ Computer Vision related course and tutirials.
 - CV-T OpenCV环境配置全教程
 - CV-T OpenCV_Tutorilas_Python 实践教程
 
+-modified test
